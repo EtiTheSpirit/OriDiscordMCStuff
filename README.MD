@@ -1,5 +1,6 @@
 # Eti's Modded Minecraft Server for the Ori the Game Discord
 
+## THIS IS NOT OPTIFINE COMPATIBLE. DO NOT USE OPTIFINE OR YOU *WILL* BRICK THE GAME.
 
 # Setting Up
 ## Big Step 1: Java
