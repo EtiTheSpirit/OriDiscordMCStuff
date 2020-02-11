@@ -2,7 +2,7 @@
 
 ## THIS IS NOT OPTIFINE COMPATIBLE. DO NOT USE OPTIFINE OR YOU *WILL* BRICK THE GAME.
 
-# This server has rules. Read them.
+**This server has rules. Read them.**
 https://github.com/XanTheDragon/OriDiscordMCStuff/blob/master/RULES.MD
 
 # Setting Up
@@ -42,6 +42,15 @@ When playing this server, several rules are set:
 - Difficulty is EASY
 - Betweenlands Decay is ON (You must collect sap from sap-bearing trees (you'll know it when you see it, it has orange blobs all over the wood texture and there's a specific tree just for it)). This may change depending on user request.
 - Betweenlands Corrosion is OFF (This mechanic causes your tools to slowly decay in the world unless you apply scabyst ore to it. This mechanic is designed to keep you on your toes and is not necessary for good gameplay)
+
+## The Betweenlands
+**Here's a short comprehensive guide:** 
+https://github.com/XanTheDragon/OriDiscordMCStuff/blob/master/GUIDE.MD
+
+**Some important stuff:**
+- https://the-betweenlands.fandom.com/wiki/Sap_Tree_Log
+- https://the-betweenlands.fandom.com/wiki/Decay
+- https://the-betweenlands.fandom.com/wiki/Mobs
 
 ## Other Features
 - You can use `/name yourNameHere` to set a custom name via MorePlayerModels. Please use this sparingly. This is only to appeal to the RP community, assuming it grows here.
