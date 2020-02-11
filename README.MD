@@ -5,14 +5,14 @@
 ## Big Step 1: Java
 If you don't have it installed already, install Java. You can get Java [HERE (click here)](https://java.com/en/download/win10.jsp) if you don't have it.
 
-## Big Step 2: Minecraft Forge.
+## Big Step 2: Minecraft Forge
 You need Minecraft Forge 1.12.2 for this to work.
 
 **Step 1:** Launch Minecraft 1.12.2 at least once (so that a 1.12.2 version is created in your game directory).
 
 **Step 2:** Download the Forge installer for 1.12.2 (which you can get [HERE (click here)](https://files.minecraftforge.net/maven/net/minecraftforge/forge/1.12.2-14.23.5.2768/forge-1.12.2-14.23.5.2768-installer.jar)). **Run this with Java** (Do *NOT* open with WinRAR / 7zip!), and select *Client* (not Server or SDK) and click install. Wait for it to finish, then move on when it says it's done.
 
-## Big Step 3: Getting and Installing The Mods
+## Big Step 3: The Mods
 You need mods to join this server. The mods are on this repository, but for ease of access, a link to all of the mods is [HERE (click here)](https://github.com/XanTheDragon/OriDiscordMCStuff/releases/download/1/ORI_SERVER_MODS_AND_CONFIG.zip).
 
 **Step 1:** Download + open the ZIP file from the line just above. You will see two folders inside: `config` and `mods`.
@@ -21,7 +21,7 @@ You need mods to join this server. The mods are on this repository, but for ease
 
 **Step 3:** If any files prompt you to replace them, replace the files. This should probably not be the case, but it might happen if you've already modded Minecraft.
 
-## Done!
+# Congratulations! You're done!
 After you've finished the steps above, you should be able to join the server.
 
 When you enter the portal, you will spawn in a dark box with a pressure plate at the bottom. If this pressure plate doesn't trip (teleporting you to a much brighter room), try jumping a few times.
