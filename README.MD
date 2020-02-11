@@ -53,7 +53,7 @@ https://github.com/XanTheDragon/OriDiscordMCStuff/blob/master/GUIDE.MD
 - https://the-betweenlands.fandom.com/wiki/Mobs
 
 ## Other Features
-- You can use `/name yourNameHere` to set a custom name via MorePlayerModels. Please use this sparingly. This is only to appeal to the RP community, assuming it grows here.
+- You can use `/mpm name yourNameHere` to set a custom name via MorePlayerModels. Please use this sparingly. This is only to appeal to the RP community, assuming it grows here.
 
 ## Mods
 - EtiMod, which adds spirit guardians as a mob.
