@@ -1,6 +1,4 @@
-# Eti's Modded Minecraft Server for the Ori the Game Discord
-
-### THIS IS NOT OPTIFINE COMPATIBLE. DO NOT USE OPTIFINE OR YOU *WILL* BRICK THE GAME.
+# THIS IS NOT OPTIFINE COMPATIBLE. DO NOT USE OPTIFINE OR YOU *WILL* BRICK THE GAME.
 
 **This server has rules. Read them.**
 https://github.com/XanTheDragon/OriDiscordMCStuff/blob/master/RULES.MD
