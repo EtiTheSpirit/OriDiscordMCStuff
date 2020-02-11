@@ -41,3 +41,13 @@ When playing this server, several rules are set:
 
 ## Other Features
 - You can use `/name yourNameHere` to set a custom name via MorePlayerModels. Please use this sparingly. This is only to appeal to the RP community, assuming it grows here.
+
+## Mods
+- EtiMod, which adds spirit guardians as a mob.
+- Hwyla (Optional) - Shows the block and entity you are looking at.
+- iChunUtil (Necessary Core Package)
+- JustEnoughItems (Optional) - Shows recipes and all blocks in the game. /give is not available so it cannot be used for cheating.
+- MorePlayerModels
+- Morph
+- The Betweenlands + Betweenlands Core
+- Wall-Jump!
