@@ -2,6 +2,9 @@
 
 ## THIS IS NOT OPTIFINE COMPATIBLE. DO NOT USE OPTIFINE OR YOU *WILL* BRICK THE GAME.
 
+# This server has rules. Read them.
+https://github.com/XanTheDragon/OriDiscordMCStuff/blob/master/RULES.MD
+
 # Setting Up
 ## Big Step 1: Java
 If you don't have it installed already, install Java. You can get Java [HERE (click here)](https://java.com/en/download/win10.jsp) if you don't have it.
