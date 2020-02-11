@@ -1,4 +1,4 @@
-# Ori the Game Discord Server Mods
+# Eti's Modded Minecraft Server for the Ori the Game Discord
 
 
 # Setting Up
