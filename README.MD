@@ -1,6 +1,6 @@
 # Eti's Modded Minecraft Server for the Ori the Game Discord
 
-## THIS IS NOT OPTIFINE COMPATIBLE. DO NOT USE OPTIFINE OR YOU *WILL* BRICK THE GAME.
+### THIS IS NOT OPTIFINE COMPATIBLE. DO NOT USE OPTIFINE OR YOU *WILL* BRICK THE GAME.
 
 **This server has rules. Read them.**
 https://github.com/XanTheDragon/OriDiscordMCStuff/blob/master/RULES.MD
@@ -31,6 +31,9 @@ After you've finished the steps above, you should be able to join the server.
 When you enter the portal, you will spawn in a dark box with a pressure plate at the bottom. If this pressure plate doesn't trip (teleporting you to a much brighter room), try jumping a few times.
 
 # Info
+
+## Known Bugs
+- At times you may randomly die out of nowhere. If this happens, **click respawn, then re-log from the server.** This is a desync issue. You aren't actually dead, but if you don't click respawn and log back in, the server will think you're dead and you won't be able to do anything.
 
 ## Gamerules & Mechanics
 When playing this server, several rules are set:
