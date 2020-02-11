@@ -25,3 +25,18 @@ You need mods to join this server. The mods are on this repository, but for ease
 After you've finished the steps above, you should be able to join the server.
 
 When you enter the portal, you will spawn in a dark box with a pressure plate at the bottom. If this pressure plate doesn't trip (teleporting you to a much brighter room), try jumping a few times.
+
+# Info
+
+## Gamerules & Mechanics
+When playing this server, several rules are set:
+- Spirits have only 5 hearts.
+- PvP is OFF
+- Fire ticking is OFF (no spread, but also no automatic extinguishing except for in rain)
+- Mob Griefing is OFF
+- Keep Inventory is TRUE
+- Difficulty is EASY
+- Betweenlands Decay is ON (You must collect sap from sap-bearing trees (you'll know it when you see it, it has orange blobs all over the wood texture and there's a specific tree just for it)). This may change depending on user request.
+
+## Other Necessities
+- You can use `/name yourNameHere` to set a custom name via MorePlayerModels. Please use this sparingly. This is only to appeal to the RP community, assuming it grows here.
