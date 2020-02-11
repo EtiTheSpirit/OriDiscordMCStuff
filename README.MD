@@ -23,3 +23,5 @@ You need mods to join this server. The mods are on this repository, but for ease
 
 ## Done!
 After you've finished the steps above, you should be able to join the server.
+
+When you enter the portal, you will spawn in a dark box with a pressure plate at the bottom. If this pressure plate doesn't trip (teleporting you to a much brighter room), try jumping a few times.
