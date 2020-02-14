@@ -9,22 +9,23 @@
 ## Part 2: The Betweenlands
 
 ### Decay
-As a world locked in constant decay, you will be fighting for your life. That said, *you* can decay too! Above your hunger bar you will see brown orbs. These orbs represent your integrity. The less orbs you have, the more decayed you are. At certain points of decay you will begin to notice fungus and other yucky stuff growing off of your hand (it also applies to the charactermodel, but the spirit model is not compatible). **You will also lose max health as you decay.**
+The Betweenlands are locked in a state constant decay, you and your tools included. Above your hunger bar you will see brown orbs. These orbs represent your own integrity. The less orbs you have, the more decayed you are. At certain points of decay you will begin to notice fungus and other yucky stuff growing off of your hand (it also applies to the charactermodel, but the spirit model is not compatible). **You will also lose max health as you decay, and progressively get slower.** You will *not* die if you become fully decayed, but you are incredibly weak.
 
-Locate Sap Trees and break their logs to get Sap. Eating this Sap will restore your protection from the decay.
+Locate Sap Trees and break their logs to get Sap. Eating this Sap will restore your protection from the decay. The item looks the same as the picture for the decay bar.
 
 ### Materials
 In The Betweenlands, there are several available ores. In order of strength:
 1) Wood
-2) Slimy Bones, which generate like an ore (Cragstone is too fragmented to form into tools!)
-3) Symorite, which is a blue ore that looks sort of like lapis ore as a block.
-4) Octine, which is a firey orange ore
-5) Valonite, which is a very rare pearly white ore
+1a) ~~Cragstone~~ **(Do NOT use this! Stone tools don't work here! Go straight to bones.)**
+2) Slimy Bones, which generate like an ore in the ground and are also dropped by swamp hags.
+3) Syrmorite, which is a blue ore that looks sort of like lapis ore as a block.
+4) Octine, which is a firey orange ore that glows in the dark.
+5) Valonite, which is a very rare pearly white ore in the deepest darkest depths of the world.
 --
 1) Sulfur, which is basically Coal for The Betweenlands.
 2) Scabyst, which is used to counter decay of tools (see below)
 
-Tools are also subject to the world's decay, **but this feature has been disabled for the time being**. When you mouse over one of your tools, you will see a status message ("Good as new!") with a number, usually 0/250. As this number increases, your tool becomes more decayed and weaker. At 250, it will break regardless of what durability is remaining. Again, this feature has been disabled. This can be resolved by mining Scabyst Ore and crafting the tool + the ore together to add a **coating**.
+Tools are also subject to the world's decay. When you mouse over one of your tools, you will see a status message ("Good as new!") with a number, usually 0/250. As this number increases, your tool becomes more decayed and weaker. At 250, it will break regardless of what durability is remaining. This can be resolved by mining Scabyst Ore and crafting the tool + the ore together to add a **coating**.
 
 ### Monsters
 There are some monsters that are incredibly dangerous in the betweenlands, especially to spirits. In order from most threatening to least threatening hostile mobs:
