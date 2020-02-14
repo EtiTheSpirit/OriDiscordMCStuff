@@ -57,7 +57,7 @@ https://github.com/XanTheDragon/OriDiscordMCStuff/blob/master/GUIDE.MD
 ## Other Features
 - You can use `/mpm name yourNameHere` to set a custom name via MorePlayerModels. Please use this sparingly.
 
-## Mods
+## Mods Included In The Pack
 - EtiMod
 - **[Optional]** Hwyla - Shows the block or entity you are looking at.
 - iChunUtil (Necessary Core Package)
