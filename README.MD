@@ -2,7 +2,7 @@
 https://github.com/XanTheDragon/OriDiscordMCStuff/blob/master/RULES.MD
 
 # Important Note: Optifine Compatibility
-- This pack is NOT guaranteed to work 100% with Optifine. Any crashes you have while using Optifine will be *ignored*. Use Optifine at your own risk!
+- This pack is NOT guaranteed to work 100% with Optifine. Any crashes you have while using Optifine will be *ignored*. Use Optifine at your own risk! **Testing has been briefly done with [THIS VERSION (click here to download)](https://optifine.net/adloadx?f=OptiFine_1.12.2_HD_U_F5.jar)**
 
 # Setting Up
 ## Big Step 1: Java
