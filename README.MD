@@ -1,6 +1,9 @@
 **This server has rules. Read them.**
 https://github.com/XanTheDragon/OriDiscordMCStuff/blob/master/RULES.MD
 
+# Important Note: Optifine Compatibility
+- This pack is NOT guaranteed to work 100% with Optifine. Any crashes you have while using Optifine will be *ignored*. Use Optifine at your own risk!
+
 # Setting Up
 ## Big Step 1: Java
 If you don't have it installed already, install Java. You can get Java [HERE (click here)](https://java.com/en/download/win10.jsp) if you don't have it.
