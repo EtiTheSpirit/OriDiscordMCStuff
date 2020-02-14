@@ -36,14 +36,14 @@ When you enter the portal, you will spawn in a dark box with a pressure plate at
 
 ## Gamerules & Mechanics
 When playing this server, several rules are set:
-- Spirits have only 5 hearts.
+~~- Spirits have only 5 hearts.~~ (Removed for balance. 10 hearts is the default now.)
 - PvP is OFF
 - Fire ticking is OFF (no spread, but also no automatic extinguishing except for in rain)
 - Mob Griefing is OFF
 - Keep Inventory is TRUE
 - Difficulty is EASY
-- Betweenlands Decay is ON (You must collect sap from sap-bearing trees (you'll know it when you see it, it has orange blobs all over the wood texture and there's a specific tree just for it)). This may change depending on user request.
-- Betweenlands Corrosion is OFF (This mechanic causes your tools to slowly decay in the world unless you apply scabyst ore to it. This mechanic is designed to keep you on your toes and is not necessary for good gameplay)
+- Betweenlands Decay is ON (You must collect sap from sap-bearing trees (you'll know it when you see it, it has orange blobs all over the wood texture and there's a specific tree just for it)).
+- Betweenlands Corrosion is ON (This mechanic causes your tools to slowly decay in the world unless you apply scabyst ore to it. This mechanic is designed to keep you on your toes and is not necessary for good gameplay)
 
 ## The Betweenlands
 **Here's a short comprehensive guide:** 
@@ -55,14 +55,14 @@ https://github.com/XanTheDragon/OriDiscordMCStuff/blob/master/GUIDE.MD
 - https://the-betweenlands.fandom.com/wiki/Mobs
 
 ## Other Features
-- You can use `/mpm name yourNameHere` to set a custom name via MorePlayerModels. Please use this sparingly. This is only to appeal to the RP community, assuming it grows here.
+- You can use `/mpm name yourNameHere` to set a custom name via MorePlayerModels. Please use this sparingly.
 
 ## Mods
-- EtiMod, which adds spirit guardians as a mob.
-- Hwyla (Optional) - Shows the block and entity you are looking at.
+- EtiMod
+- **[Optional]** Hwyla - Shows the block or entity you are looking at.
 - iChunUtil (Necessary Core Package)
-- JustEnoughItems (Optional) - Shows recipes and all blocks in the game. /give is not available so it cannot be used for cheating.
+- **[Optional]** JustEnoughItems - Shows recipes and all blocks in the game. /give is not available so it cannot be used for cheating.
 - MorePlayerModels
-- Morph
-- The Betweenlands + Betweenlands Core
+- Morph (Modified)
+- The Betweenlands
 - Wall-Jump!
