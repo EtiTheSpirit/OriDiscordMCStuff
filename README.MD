@@ -36,7 +36,7 @@ When you enter the portal, you will spawn in a dark box with a pressure plate at
 
 ## Gamerules & Mechanics
 When playing this server, several rules are set:
-~~- Spirits have only 5 hearts.~~ (Removed for balance. 10 hearts is the default now.)
+- ~~Spirits have only 5 hearts.~~ (Removed for balance. 10 hearts is the default now.)
 - PvP is OFF
 - Fire ticking is OFF (no spread, but also no automatic extinguishing except for in rain)
 - Mob Griefing is OFF
