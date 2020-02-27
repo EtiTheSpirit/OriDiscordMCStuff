@@ -43,7 +43,7 @@ When playing this server, several rules are set:
 - Keep Inventory is TRUE
 - Difficulty is EASY
 - Betweenlands Decay is ON (You must collect sap from sap-bearing trees (you'll know it when you see it, it has orange blobs all over the wood texture and there's a specific tree just for it)).
-- Betweenlands Corrosion is ON (This mechanic causes your tools to slowly decay in the world unless you apply scabyst ore to it. This mechanic is designed to keep you on your toes and is not necessary for good gameplay)
+- Betweenlands Corrosion is ON (This mechanic causes your tools to slowly decay in the world unless you apply scabyst ore to it.)
 
 ## The Betweenlands
 **Here's a short comprehensive guide:** 
@@ -59,10 +59,12 @@ https://github.com/XanTheDragon/OriDiscordMCStuff/blob/master/GUIDE.MD
 
 ## Mods Included In The Pack
 - EtiMod
+- EnderZoo (Modified)
 - **[Optional]** Hwyla - Shows the block or entity you are looking at.
 - iChunUtil (Necessary Core Package)
 - **[Optional]** JustEnoughItems - Shows recipes and all blocks in the game. /give is not available so it cannot be used for cheating.
 - MorePlayerModels
 - Morph (Modified)
 - The Betweenlands
+- SimpleHomes
 - Wall-Jump!
