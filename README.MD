@@ -16,7 +16,7 @@ You need Minecraft Forge 1.12.2 for this to work.
 **Step 2:** Download the Forge installer for 1.12.2 (which you can get [HERE (click here)](https://files.minecraftforge.net/maven/net/minecraftforge/forge/1.12.2-14.23.5.2847/forge-1.12.2-14.23.5.2847-installer.jar)). **Run this with Java** (Do *NOT* open with WinRAR / 7zip!), and select *Install Client* (not Server or Extract) and click OK. Wait for it to finish, then move on when it says it's done.
 
 ## Big Step 3: The Mods
-You need mods to join this server. The mods are on this repository, but for ease of access, a link to all of the mods is [HERE (click here)](https://github.com/XanTheDragon/OriDiscordMCStuff/releases/download/1/ORI_SERVER_MODS_AND_CONFIG.zip).
+You need the official mods to join this server. The mods are on this repository, but for ease of access, a link to all of the mods is [HERE (click here)](https://github.com/XanTheDragon/OriDiscordMCStuff/releases/download/1/ORI_SERVER_MODS_AND_CONFIG.zip).
 
 **Step 1:** Download + open the ZIP file from the line just above. You will see two folders inside: `config` and `mods`.
 
