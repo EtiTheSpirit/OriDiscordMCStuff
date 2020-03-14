@@ -1,9 +1,6 @@
 **This server has rules. Read them.**
 https://github.com/XanTheDragon/OriDiscordMCStuff/blob/master/RULES.MD
 
-# Important Note: Optifine Compatibility
-- This pack is NOT guaranteed to work 100% with Optifine. Any crashes you have while using Optifine will be *ignored*. Use Optifine at your own risk! **Testing has been briefly done with [THIS VERSION (click here to download)](https://optifine.net/adloadx?f=OptiFine_1.12.2_HD_U_F5.jar)**
-
 # Setting Up
 ## Big Step 1: Java
 If you don't have it installed already, install Java. You can get Java [HERE (click here)](https://java.com/en/download/win10.jsp) if you don't have it.
@@ -50,7 +47,6 @@ When you enter the game, you will spawn in a dark box with a pressure plate at t
 
 ## Gamerules & Mechanics
 When playing this server, several rules are set:
-- ~~Spirits have only 5 hearts.~~ (Removed for balance. 10 hearts is the default now.)
 - PvP is OFF
 - Fire ticking is OFF (no spread, but also no automatic extinguishing except for in rain)
 - Mob Griefing is OFF
@@ -72,13 +68,16 @@ https://github.com/XanTheDragon/OriDiscordMCStuff/blob/master/GUIDE.MD
 - You can use `/mpm name yourNameHere` to set a custom name via MorePlayerModels. Please use this sparingly.
 
 ## Mods Included In The Pack
-- EtiMod
+- EtiCore
+- OptiFine
 - EnderZoo (Modified)
-- **[Optional]** Hwyla - Shows the block or entity you are looking at.
+- Hwyla - Shows the block or entity you are looking at.
 - iChunUtil (Necessary Core Package)
-- **[Optional]** JustEnoughItems - Shows recipes and all blocks in the game. /give is not available so it cannot be used for cheating.
+- JustEnoughItems - Shows recipes and all blocks in the game. /give is not available so it cannot be used for cheating.
+- JourneyMap
 - MorePlayerModels
 - Morph (Modified)
 - The Betweenlands
-- SimpleHomes
+- Vein Miner
+- Simple Homes
 - Wall-Jump!
