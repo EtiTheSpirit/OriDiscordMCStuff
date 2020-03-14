@@ -15,7 +15,7 @@ Locate Sap Trees and break their logs to get Sap. Eating this Sap will restore y
 
 ### Materials
 In The Betweenlands, there are several available ores. In order of strength:
-1) Wood
+1) Weedwood
 1a) ~~Cragstone~~ **(Do NOT use this! Stone tools don't work here! Go straight to bones.)**
 2) Slimy Bones, which generate like an ore in the ground and are also dropped by swamp hags.
 3) Syrmorite, which is a blue ore that looks sort of like lapis ore as a block.
@@ -31,7 +31,7 @@ Tools are also subject to the world's decay. When you mouse over one of your too
 There are some monsters that are incredibly dangerous in the betweenlands, especially to spirits. In order from most threatening to least threatening hostile mobs:
 
 #### Wights
-Wights are tall white ghosts that ripple the world around them. They make uneasy groaning sounds and will deal extreme damage. **Do not engage wights**. Wights will often begin to use a magical attack that **can not be countered by spirits, and you *will* die.**. Always run if a wight is attacking you. (Since this magic is actually a bug in terms of spirits being unable to counter it, I am willing to /kill wights if they are interfering with you.)
+Wights are tall white ghosts that ripple the world around them. They are capable of rolling out unfathomably high amounts of damage and if you are not equipped for combat, you will likely die.
 
 #### Chiromaws & Swamp Hags
 Chiromaws are basically giant bats (about as big as a chicken) that lurk in caves. They deal a heart of damage per hit which is very dangerous for spirits!
