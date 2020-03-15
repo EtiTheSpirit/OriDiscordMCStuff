@@ -43,7 +43,7 @@ When you enter the game, you will spawn in a dark box with a pressure plate at t
 # Info
 
 ## Known Bugs
-- At times you may randomly die out of nowhere. If this happens, **click respawn, then re-log from the server.** This is a desync issue. You aren't actually dead, but if you don't click respawn and log back in, the server will think you're dead and you won't be able to do anything.
+- At times you may randomly die out of nowhere. If this happens, **click respawn, then re-log from the server.** This is a desync issue. You aren't actually dead, but if you don't click respawn and log back in, the server will think you're dead and you won't be able to do anything. **This bug has become incredibly rare, but it may still happen.**
 
 ## Gamerules & Mechanics
 When playing this server, several rules are set:
@@ -51,9 +51,10 @@ When playing this server, several rules are set:
 - Fire ticking is OFF (no spread, but also no automatic extinguishing except for in rain)
 - Mob Griefing is OFF
 - Keep Inventory is TRUE
-- Difficulty is EASY
-- Betweenlands Decay is ON (You must collect sap from sap-bearing trees (you'll know it when you see it, it has orange blobs all over the wood texture and there's a specific tree just for it)).
-- Betweenlands Corrosion is ON (This mechanic causes your tools to slowly decay in the world unless you apply scabyst ore to it.)
+- Difficulty is NORMAL
+- Betweenlands Decay is ON
+- Betweenlands Corrosion is ON
+- All Betweenlands Events are ON, but may be manipulated if there is any RP going on or something. This is generally avoided (so if we get a blood sky when people are RPing outside and don't want it, it may be disabled)
 
 ## The Betweenlands
 **Here's a short comprehensive guide:** 
@@ -71,13 +72,25 @@ https://github.com/XanTheDragon/OriDiscordMCStuff/blob/master/GUIDE.MD
 - EtiCore
 - OptiFine
 - EnderZoo (Modified)
-- Hwyla - Shows the block or entity you are looking at.
-- iChunUtil (Necessary Core Package)
-- JustEnoughItems - Shows recipes and all blocks in the game. /give is not available so it cannot be used for cheating.
+- Hwyla
+- iChunUtil
+- JustEnoughItems (For Recipes)
 - JourneyMap
 - MorePlayerModels
 - Morph (Modified)
-- The Betweenlands
+- The Betweenlands (Modified)
+- Trash Slot
 - Vein Miner
 - Simple Homes
 - Wall-Jump!
+
+## Mod-Mods:
+### EnderZoo
+- Basically every feature has been disabled. It's just here for the owls, which do not spawn naturally for the time being. This may not be enabled.
+
+### Morph
+- Since it is required that you use the Spirit playermodel on the server, this modified version of Morph ensures that you are using it.
+
+### The Betweenlands
+- Wights can no longer enter their volatile state (where they attack you as a ghost). This is due to incompatibilities with the spirit playermodel.
+- Biome colors are no longer hardcoded and instead reference vanilla foliage colors. This may be leveraged via a server resource pack in the future.
