@@ -84,7 +84,11 @@ https://github.com/XanTheDragon/OriDiscordMCStuff/blob/master/GUIDE.MD
 - Simple Homes
 - Wall-Jump!
 
-## Mod-Mods:
+## Certain Mods Have Been Changed / Custom Made
+### EtiCore
+- Appends Spirit Guardians as a mob (which has no AI, as it is used in the Morph mod as a playermodel). 
+- Appends a "Spirit Light" item, which can be used with OptiFine to glow so long as you hold it (It is recommended to have it in your off-hand. It does not show as a held item when you hold it, so it won't get in the way). *This requires dynamic lights to be on.*
+
 ### EnderZoo
 - Basically every feature has been disabled. It's just here for the owls, which do not spawn naturally for the time being. This may not be enabled.
 
