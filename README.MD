@@ -97,4 +97,5 @@ https://github.com/XanTheDragon/OriDiscordMCStuff/blob/master/GUIDE.MD
 
 ### The Betweenlands
 - Wights can no longer enter their volatile state (where they attack you as a ghost). This is due to incompatibilities with the spirit playermodel.
+- By extension of above, Wights can no longer possess swamp hags (which used to buff the hags, but it arguably made things easier anyway :P)
 - Biome colors are no longer hardcoded and instead reference vanilla foliage colors. This may be leveraged via a server resource pack in the future.
