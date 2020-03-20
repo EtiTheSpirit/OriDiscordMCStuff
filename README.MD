@@ -43,7 +43,8 @@ When you enter the game, you will spawn in a dark box with a pressure plate at t
 # Info
 
 ## Known Bugs
-- At times you may randomly die out of nowhere. If this happens, **click respawn, then re-log from the server.** This is a desync issue. You aren't actually dead, but if you don't click respawn and log back in, the server will think you're dead and you won't be able to do anything. **This bug has become incredibly rare, but it may still happen.**
+- At times you may randomly die out of nowhere and still have health. If this happens, **click Respawn, then re-log from the server.** This is a desync issue. You aren't actually dead, but if you don't click respawn and log back in, the server will think you're dead and you won't be able to do anything. **This bug has become incredibly rare, but it may still happen.**
+- At other times, you may be unable to click Respawn after dying. If this happens, go to the Title Screen, log back in, and try respawning once more.
 
 ## Gamerules & Mechanics
 When playing this server, several rules are set:
