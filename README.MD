@@ -89,12 +89,13 @@ https://github.com/XanTheDragon/OriDiscordMCStuff/blob/master/GUIDE.MD
 ### EtiCore
 - Appends Spirit Guardians as a mob (which has no AI, as it is used in the Morph mod as a playermodel). 
 - Appends a "Spirit Light" item, which can be used with OptiFine to glow so long as you hold it (It is recommended to have it in your off-hand. It does not show as a held item when you hold it, so it won't get in the way). *This requires dynamic lights to be on.*
+- Enforces that players use the Spirit Guardian mob with the Morph mod from the server-end (so even if you don't use this server's version of Morph, you have to use it.)
 
 ### EnderZoo
 - Basically every feature has been disabled. It's just here for the owls, which do not spawn naturally for the time being. This may not be enabled.
 
 ### Morph
-- Since it is required that you use the Spirit playermodel on the server, this modified version of Morph ensures that you are using it.
+- Since it is required that you use the Spirit playermodel on the server, this modified version of Morph ensures that you are using it on the clientside by disabling keybinds.
 
 ### The Betweenlands
 - Wights can no longer enter their volatile state (where they attack you as a ghost). This is due to incompatibilities with the spirit playermodel.
