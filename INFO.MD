@@ -52,7 +52,7 @@ https://github.com/XanTheDragon/OriDiscordMCStuff/blob/master/GUIDE.MD
 
 ### Planned Updates
 - [ ] Spirit Customization (make your own texture)
-- [ ] Armor Models / Held Items
+- [ ] Armor Models / Held Items (and the ability to choose whether or not you want to display them)
 - [x] A way for spirits to glow, either by held item or naturally.
 
 ## EnderZoo
