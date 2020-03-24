@@ -41,4 +41,4 @@ After you've finished the steps above, you should be able to join the server.
 When you enter the game, you will spawn in a dark box with a pressure plate at the bottom. If this pressure plate doesn't trip (teleporting you to the surface), try jumping a few times.
 
 # Information
-https://github.com/XanTheDragon/OriDiscordMCStuff/edit/master/MODINFO.MD
+https://github.com/XanTheDragon/OriDiscordMCStuff/edit/master/INFO.MD
