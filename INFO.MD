@@ -51,9 +51,9 @@ https://github.com/XanTheDragon/OriDiscordMCStuff/blob/master/GUIDE.MD
 - Enforces that players use the Spirit Guardian mob with the Morph mod from the server-end (so even if you don't use this server's version of Morph, you have to use it.)
 
 ### Planned Updates
-- [ ] Spirit Customization (make your own texture)
-- [ ] Armor Models / Held Items (and the ability to choose whether or not you want to display them)
-- [x] A way for spirits to glow, either by held item or naturally.
+- :heavy_multiplication_x: Spirit Customization (make your own texture)
+- :heavy_multiplication_x: Armor Models / Held Items (and the ability to choose whether or not you want to display them)
+- :heavy_check_mark: A way for spirits to glow, either by held item or naturally.
 
 ## EnderZoo
 ### Changes
