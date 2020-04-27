@@ -28,7 +28,7 @@ When playing this server, several rules are set:
 - Wall-Jump!
 
 ## Known Bugs
-- At times you may randomly die out of nowhere and still have health. If this happens, **click Respawn, then re-log from the server.** This is a desync issue. You aren't actually dead, but if you don't click respawn and log back in, the server will think you're dead and you won't be able to do anything. **This bug has become incredibly rare, but it may still happen.**
+- At times you may randomly die out of nowhere and still have health. If this happens, **click Respawn, then re-log from the server.** This is a desync issue. You aren't actually dead, but if you don't click respawn and log back in, the server will think you're dead and you won't be able to do anything. **This bug has become incredibly rare (no recent cases), but it may still happen.**
 - At other times, you may be unable to click Respawn after dying. If this happens, go to the Title Screen, log back in, and try respawning once more.
 
 ### The Betweenlands
@@ -69,3 +69,4 @@ https://github.com/XanTheDragon/OriDiscordMCStuff/blob/master/GUIDE.MD
 - By extension of above, Wights can no longer possess swamp hags to buff them.
 - Biome colors are no longer hardcoded and instead reference vanilla foliage colors. This may be leveraged via a server resource pack in the future.
 - Life Crystals can be recharged by right clicking with them. It will take 16 levels to bring a Life Crystal from 0% to 100% (Each level restores 6.25%)
+- My mod has appended a "Locked Weedwood Trapdoor" item which can be crafted by placing a weedwood trapdoor inside of a crafting table. Place a locked trapdoor into a crafting table to get a normal trapdoor. This only works for weedwood trapdoors.
