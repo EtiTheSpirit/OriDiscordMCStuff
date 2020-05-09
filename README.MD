@@ -18,12 +18,12 @@ You need Minecraft Forge 1.12.2 for this to work.
 
 You need the official mods to join this server.
 
-### Big Step 3-A: Automatic Downloader (easy way)
+### Step 3-A: Automatic Downloader (easy way)
 If you don't trust yourself with downloading mods, I have written an EXE file that will do it for you.
 
 You can download that EXE from the releases tab, or [HERE (click here)](https://github.com/XanTheDragon/OriDiscordMCStuff/releases/download/1b/MCAutoDownloader.exe). **Put this EXE into the .minecraft folder.**
 
-### Big Step 3-B: Manual Install
+### Step 3-B: Manual Install
 
 The link to all of the mods and configuration files: [HERE (click here)](https://github.com/XanTheDragon/OriDiscordMCStuff/releases/download/1/ORI_SERVER_MODS_AND_CONFIG.zip).
 
