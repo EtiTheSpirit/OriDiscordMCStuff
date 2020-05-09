@@ -32,13 +32,16 @@ There are some monsters that are incredibly dangerous in the betweenlands, espec
 #### Wights
 Wights are tall white ghosts that ripple the world around them. They are capable of rolling out unfathomably high amounts of damage and if you are not equipped for combat, you will likely die.
 
+#### Peat Mummies
+The Swamp Hag's Chad counterpart, Peat Mummies have **110 HP** (just over half of the enderdragon!) and deal absurd amounts of damage. They only spawn by random chance (rarely) if you walk over Peat, a block type. You will know if they spawn as they will begin to dig out of the ground. If this happens and you are not equipped, run and *do not stop running*.
+
 #### Chiromaws & Swamp Hags
-Chiromaws are basically giant bats (about as big as a chicken) that lurk in caves. They deal a heart of damage per hit which is very dangerous for spirits!
+Chiromaws are basically giant bats (about as big as a chicken) that lurk in caves.
 
 Swamp hags are decayed and long-lost men, driven mad by their state. They have a *large* health pool and hit hard.
 
 #### Boulder Sprites
-Prepare to get the shit scared out of you. These boulders lurk in caves and roll at you when you least expect it. They are mainly annoying for the jumpscare they tend to give.
+Prepare to get the shit scared out of you. These boulders lurk in caves and roll at you when you least expect it. They are mainly annoying for the jumpscare they tend to give, but are otherwise not too problematic.
 
 #### Many More!
 You can read about them all here: https://the-betweenlands.fandom.com/wiki/Mobs
