@@ -37,7 +37,7 @@ https://github.com/XanTheDragon/OriDiscordMCStuff/blob/master/GUIDE.MD
 ### Features
 - Appends Spirit Guardians as a mob (which has no AI, as it is used in the Morph mod as a playermodel). 
 - Appends a "Spirit Light" item, which can be used with OptiFine to glow so long as you hold it (It is recommended to have it in your off-hand. It does not show as a held item when you hold it, so it won't get in the way). *This requires dynamic lights to be on.*
-- Enforces that players use the Spirit Guardian mob with the Morph mod from the server-end (so even if you don't use this server's version of Morph, you have to use it.)
+- Enforces that players use the Spirit Guardian mob with the Morph mod from the server-end (so even if you don't use this server's version of Morph, you have to use it). For singleplayer instances this can be disabled via configuration.
 
 ### Planned Updates
 - :heavy_multiplication_x: Spirit Customization (make your own texture)
