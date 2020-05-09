@@ -15,8 +15,7 @@ Locate Sap Trees and break their logs to get Sap. Eating this Sap will restore y
 
 ### Materials
 In The Betweenlands, there are several available ores. In order of strength:
-1) Weedwood
-1a) ~~Cragstone~~ **(Do NOT use this! Stone tools don't work here! Go straight to bones.)**
+1) Weedwood // **(Do NOT use cragrock/betweenstone! Stone tools don't work here! Go straight to bones.)**
 2) Slimy Bones, which generate like an ore in the ground and are also dropped by swamp hags.
 3) Syrmorite, which is a blue ore that looks sort of like lapis ore as a block.
 4) Octine, which is a firey orange ore that glows in the dark.
