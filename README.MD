@@ -1,4 +1,4 @@
-**This server has rules. Read them:** https://github.com/XanTheDragon/OriDiscordMCStuff/blob/master/RULES.MD <br/>
+**The official server has rules. Read them:** https://github.com/XanTheDragon/OriDiscordMCStuff/blob/master/RULES.MD <br/>
 n.b. if you are using this and you don't plan on doing anything with the official server (which as of writing isn't even up) you can skip this step.
 
 # Setting Up
