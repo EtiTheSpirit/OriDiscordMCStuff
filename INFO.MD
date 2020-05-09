@@ -16,7 +16,7 @@
 - Simple Homes
 - Wall-Jump!
 
-## Known Bugs
+## Known Server Bugs
 - At times you may randomly die out of nowhere and still have health. If this happens, **click Respawn, then re-log from the server.** This is a desync issue. You aren't actually dead, but if you don't click respawn and log back in, the server will think you're dead and you won't be able to do anything. **This bug has become incredibly rare (no recent cases), but it may still happen.**
 - At other times, you may be unable to click Respawn after dying. If this happens, go to the Title Screen, log back in, and try respawning once more.
 
