@@ -1,14 +1,3 @@
-# Gamerules & Mechanics
-When playing this server, several rules are set:
-- PvP is OFF
-- Fire ticking is OFF (no spread, but also no automatic extinguishing except for in rain)
-- Mob Griefing is OFF
-- Keep Inventory is TRUE
-- Difficulty is NORMAL
-- Betweenlands Decay is ON
-- Betweenlands Corrosion is ON
-- All Betweenlands Events are ON, but may be manipulated if there is any RP going on or something. This is generally avoided (so if we get a blood sky when people are RPing outside and don't want it, it may be disabled)
-
 # Mod Information
 
 ## Mods Included In The Pack
@@ -70,3 +59,14 @@ https://github.com/XanTheDragon/OriDiscordMCStuff/blob/master/GUIDE.MD
 - Biome colors are no longer hardcoded and instead reference vanilla foliage colors. This may be leveraged via a server resource pack in the future.
 - Life Crystals can be recharged by right clicking with them. It will take 16 levels to bring a Life Crystal from 0% to 100% (Each level restores 6.25%)
 - My mod has appended a "Locked Weedwood Trapdoor" item which can be crafted by placing a weedwood trapdoor inside of a crafting table. Place a locked trapdoor into a crafting table to get a normal trapdoor. This only works for weedwood trapdoors.
+
+# Gamerules & Mechanics
+When playing this server, several rules are set:
+- PvP is OFF
+- Fire ticking is OFF (no spread, but also no automatic extinguishing except for in rain)
+- Mob Griefing is OFF
+- Keep Inventory is TRUE
+- Difficulty is NORMAL
+- Betweenlands Decay is ON
+- Betweenlands Corrosion is ON
+- All Betweenlands Events are ON, but may be manipulated if there is any RP going on or something. This is generally avoided (so if we get a blood sky when people are RPing outside and don't want it, it may be disabled)
