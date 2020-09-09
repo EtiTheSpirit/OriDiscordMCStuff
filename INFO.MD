@@ -14,7 +14,6 @@
 - Trash Slot
 - Vein Miner
 - Simple Homes
-- Wall-Jump!
 
 ## Known Server Bugs
 - At times you may randomly die out of nowhere and still have health. If this happens, **click Respawn, then re-log from the server.** This is a desync issue. You aren't actually dead, but if you don't click respawn and log back in, the server will think you're dead and you won't be able to do anything. **This bug has become incredibly rare (no recent cases), but it may still happen.**
@@ -38,10 +37,12 @@ https://github.com/XanTheDragon/OriDiscordMCStuff/blob/master/GUIDE.MD
 - Appends Spirit Guardians as a mob (which has no AI, as it is used in the Morph mod as a playermodel). 
 - Appends a "Spirit Light" item, which can be used with OptiFine to glow so long as you hold it (It is recommended to have it in your off-hand. It does not show as a held item when you hold it, so it won't get in the way). *This requires dynamic lights to be on.*
 - Enforces that players use the Spirit Guardian mob with the Morph mod from the server-end (so even if you don't use this server's version of Morph, you have to use it). For singleplayer instances this can be disabled via configuration.
+- Implements its own version of *Wall-Jump!* which is specially designed for this mod.
 
 ### Planned Updates
-- :heavy_multiplication_x: Spirit Customization (make your own texture)
+- :heavy_multiplication_x: Spirit Customization: Make your own texture
 - :heavy_multiplication_x: Armor Models / Held Items (and the ability to choose whether or not you want to display them)
+- :heavy_check_mark: Spirit Customization: Gender models
 - :heavy_check_mark: A way for spirits to glow, either by held item or naturally.
 
 ## EnderZoo
