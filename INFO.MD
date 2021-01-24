@@ -29,7 +29,7 @@ https://github.com/XanTheDragon/OriDiscordMCStuff/blob/master/GUIDE.MD
 - https://the-betweenlands.fandom.com/wiki/Mobs
 
 ### Other Features
-- You can use `/mpm name yourNameHere` to set a custom name via MorePlayerModels. Please use this sparingly.
+- You can `/sethome` and `/home` to set a teleport point and go to it. You can use the `H` key to teleport home quickly.
 
 # Details Of Mods
 ## EtiCore
@@ -64,7 +64,6 @@ https://github.com/XanTheDragon/OriDiscordMCStuff/blob/master/GUIDE.MD
 # Gamerules & Mechanics
 When playing this server, several rules are set:
 - PvP is OFF
-- Fire ticking is OFF (no spread, but also no automatic extinguishing except for in rain)
 - Mob Griefing is OFF
 - Keep Inventory is TRUE
 - Difficulty is NORMAL
