@@ -36,14 +36,11 @@ The link to all of the mods and configuration files: [HERE (click here)](https:/
 **IMPORTANT NOTE:** If you already installed mods from this server and you are installing new mods, **MAKE SURE YOU DELETE THE OLD ONES FIRST.** I may change versions of mods at any time and you might end up having duplicate mods. All .jar files for mods should be in `mods\1.12.2` (not in the main `mods` folder, but instead the folder named `1.12.2` that's *inside* of the mods folder.)
 
 # Congratulations! You're done!
-After you've finished the steps above, you should be able to join the server. When you enter the server, you will spawn in a dark box with a pressure plate at the bottom. If this pressure plate doesn't trip (teleporting you to the surface), try jumping a few times.
-
-If you are loading into singleplayer, the default config intercepts your spawn and makes you spawn in The Betweenlands. This can be disabled in the configuration for The Betweenlands.
-
-# Joining
-This server has a whitelist. You will need to DM me (Eti) to join. Please note:
+After you've finished the steps above, you should set to go with joining the server. For security, this server has a whitelist. You will need to DM me (Eti) to get access. Please note:
 * Your Discord Snowflake and Minecraft GUID will be tracked by me. If you do some stupid crap in the game server, you may expect repercussions on the official server, and same the other way around - do stupid crap on the official server, and you may face punishment in game too.
 * You can only have one account in. You might have 70 alternative accounts, but only your main's getting in. No exceptions, unless I have personal reservations.
+
+If you are loading into singleplayer, the default config intercepts your spawn and makes you spawn in The Betweenlands. This can be disabled in the configuration for The Betweenlands.
 
 # Information
 https://github.com/XanTheDragon/OriDiscordMCStuff/blob/master/INFO.MD
