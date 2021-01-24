@@ -1,5 +1,5 @@
 **The official server has rules. Read them:** https://github.com/XanTheDragon/OriDiscordMCStuff/blob/master/RULES.MD <br/>
-n.b. if you are using this and you don't plan on doing anything with the official server (which as of writing isn't even up) you can skip this step.
+n.b. if you are using this and you don't plan on doing anything with the official server you can skip this step.
 
 # Setting Up
 ## Big Step 1: Java
@@ -39,6 +39,11 @@ The link to all of the mods and configuration files: [HERE (click here)](https:/
 After you've finished the steps above, you should be able to join the server. When you enter the server, you will spawn in a dark box with a pressure plate at the bottom. If this pressure plate doesn't trip (teleporting you to the surface), try jumping a few times.
 
 If you are loading into singleplayer, the default config intercepts your spawn and makes you spawn in The Betweenlands. This can be disabled in the configuration for The Betweenlands.
+
+# Joining
+This server has a whitelist. You will need to DM me (Eti) to join. Please note:
+* Your Discord Snowflake and Minecraft GUID will be tracked by me. If you do some stupid crap in the game server, you may expect repercussions on the official server, and same the other way around - do stupid crap on the official server, and you may face punishment in game too.
+* You can only have one account in. You might have 70 alternative accounts, but only your main's getting in. No exceptions, unless I have personal reservations.
 
 # Information
 https://github.com/XanTheDragon/OriDiscordMCStuff/blob/master/INFO.MD
