@@ -1,6 +1,3 @@
-**The official server has rules. Read them:** https://github.com/XanTheDragon/OriDiscordMCStuff/blob/master/RULES.MD <br/>
-n.b. if you are using this and you don't plan on doing anything with the official server you can skip this step.
-
 # Setting Up
 ## Big Step 1: Java
 If you don't have it installed already, install Java. You can get Java [HERE (click here)](https://java.com/en/download/win10.jsp) if you don't have it.
@@ -10,7 +7,7 @@ You need Minecraft Forge 1.12.2 for this to work.
 
 **Step 1:** Launch Minecraft 1.12.2 at least once (so that a 1.12.2 version is created in your game directory).
 
-**Step 2:** Download the Forge installer for 1.12.2 (which you can get [HERE (click here)](https://files.minecraftforge.net/maven/net/minecraftforge/forge/1.12.2-14.23.5.2847/forge-1.12.2-14.23.5.2847-installer.jar)). **Run this with Java** (Do *NOT* open with WinRAR / 7zip!), and select *Install Client* (not Server or Extract) and click OK. Wait for it to finish, then move on when it says it's done.
+**Step 2:** Download the Forge installer for 1.12.2. **Run the .jar file with Java** (Do *NOT* open with WinRAR / 7zip!), and select *Install Client* (not Server or Extract) and click OK. Wait for it to finish, then move on when it says it's done.
 
 ## Big Step 3: The Mods
 
